@@ -101,14 +101,3 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 
 ---
 
-```
-
-Let me know if you'd like to add:
-
-- Badges (npm, build status, license)
-- Screenshot or demo GIF
-- Deployment link (e.g., Vercel/Netlify)
-- Detailed usage examples or API structure
-
-I can help you expand it!
-```
