@@ -16,6 +16,17 @@ This project was developed to address these challenges by creating a system that
 - Helps farmers access credit more fairly and efficiently  
 
 ---
+## Outputs
+
+Here are some key outputs and screenshots from the FarmCreditEvaluation system:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb992322-7700-4dff-83bf-650277e24516" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d5f41947-a16e-48c7-a7f1-527270643fa3" width="30%" />
+  <img src="https://github.com/user-attachments/assets/16a9b147-75d6-4c24-93cc-e201b7ee4e66" width="30%" />
+</p>
+
+---
 
 ## How It Helps in Loan Approval
 
